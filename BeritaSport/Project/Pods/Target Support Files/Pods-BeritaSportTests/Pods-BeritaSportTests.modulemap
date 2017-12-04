@@ -1,0 +1,6 @@
+framework module Pods_BeritaSportTests {
+  umbrella header "Pods-BeritaSportTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
